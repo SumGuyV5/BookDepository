@@ -15,5 +15,5 @@
 
 Note you will need python 2.7.11 for you os.
 
-This program is a simple to track and email you when the price drops on www.bookdepository.com username and password for smtp email in the creds
+This program track and email you when the price drops on x-wing minitures from www.bookdepository.com username and password for smtp email in the creds
   
